@@ -7,6 +7,6 @@
         public string nombre { get; set; }
         public string apellidos { get; set; }
         public int dui { get; set; }
-        public string estado { get; set; }
+        public int estado { get; set; }
     }
 }
